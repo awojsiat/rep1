@@ -1,1 +1,1 @@
-Sprawdzamy czy działa.
+Sprawdzamy czy działa. v2
